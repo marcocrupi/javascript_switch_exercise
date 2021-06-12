@@ -1,0 +1,2 @@
+# javascript_switch_exercise
+javascript_switch_exercise
